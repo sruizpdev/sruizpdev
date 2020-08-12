@@ -1,5 +1,4 @@
 <h2> Hi, I'm Sergio! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/5WILqPq29TyIkVCSej/giphy.gif" width="230">
 <p><em>Front-end web developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
