@@ -16,9 +16,9 @@
 const sergio = {
   pronouns: "he" | "his",
   code: [Javascript, Typescript, HTML5, CSS3],
-  tools: [React, Redux, Next, Gatsby, Node, Storybook, Styled-Components, Jest, Docker],
+  tools: [React, Redux, Next, Gatsby, Node, Styled-Components, Jest, Docker],
   architecture: ["SPA", "JAMStack"],
-  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+  challenge: "I am doing the #100DaysOfCode challenge focused on react"
 }
 ```
 
