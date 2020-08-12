@@ -1,4 +1,4 @@
-<h2> Hi, I'm Sergio! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Sergio!</h2>
 <p><em>Front-end web developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" align="right" width="250">
   
@@ -17,12 +17,12 @@ const sergio = {
   pronouns: "he" | "his",
   code: [Javascript, Typescript, HTML5, CSS3],
   tools: [React, Redux, Next, Gatsby, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  architecture: ["SPA", "JAMStack"],
   challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
 
