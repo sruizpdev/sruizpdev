@@ -16,8 +16,8 @@
 const sergio = {
   pronouns: "he" | "his",
   code: [Javascript, Typescript, HTML5, CSS3],
-  tools: [React, Redux, React Native, NextJS, Gatsby, Node, Styled-Components, Jest],
-  architecture: ["SPA", "JAMStack"],
+  tools: [Angular, Ionic, Node, Bootstrap],
+  architecture: ["SPA"],
   challenge: "I am doing the #100DaysOfCode challenge focused on react"
 }
 ```
