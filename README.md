@@ -16,7 +16,7 @@
 const sergio = {
   pronouns: "he" | "his",
   code: [Javascript, Typescript, HTML5, CSS3],
-  tools: [React, React Native, Vite, Taliwind],
+  tools: [React, React Native, Vite, Tailwind],
   architecture: ["SPA"],
   challenge: "I am doing the #100DaysOfCode challenge focused on react"
 }
