@@ -15,10 +15,10 @@
 ```javascript
 const sergio = {
   pronouns: "he" | "his",
-  code: [Javascript, Typescript, HTML5, CSS3],
-  tools: [React, React Native, Vite, Tailwind],
-  architecture: ["SPA"],
-  challenge: "I am doing the #100DaysOfCode challenge focused on react"
+  code: [Angular, Javascript, Typescript, HTML5, CSS3],
+  tools: [Angular, PWA, Firebase],
+  architecture: ["SPA", "PWA"],
+  challenge: "I am doing the #100DaysOfCode challenge focused on Angular"
 }
 ```
 
